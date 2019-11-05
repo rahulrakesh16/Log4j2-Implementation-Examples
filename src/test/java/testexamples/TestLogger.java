@@ -15,11 +15,13 @@ public class TestLogger  {
         LoggerContext context = (LoggerContext) LogManager.getContext(false);
         File file = new File("./log4j2.xml");
         context.setConfigLocation(file.toURI());
+        logger.info("Starting of For Loop");
         for (int i = 0; i < 100; i++) {
             logger.info("Test" + i);
             logger.error("Test" + i);
             logger.debug("Test" + i);
             logger.warn("Test" + i);
         }
+        logger.info("End of For Loop");
     }
 } 
