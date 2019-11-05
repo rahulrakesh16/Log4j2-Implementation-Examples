@@ -1,0 +1,400 @@
+2019-11-05 10:58:17,276 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test0
+2019-11-05 10:58:17,280 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test0
+2019-11-05 10:58:17,280 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test0
+2019-11-05 10:58:17,280 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test0
+2019-11-05 10:58:17,281 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test1
+2019-11-05 10:58:17,281 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test1
+2019-11-05 10:58:17,281 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test1
+2019-11-05 10:58:17,282 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test1
+2019-11-05 10:58:17,282 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test2
+2019-11-05 10:58:17,283 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test2
+2019-11-05 10:58:17,283 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test2
+2019-11-05 10:58:17,283 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test2
+2019-11-05 10:58:17,284 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test3
+2019-11-05 10:58:17,284 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test3
+2019-11-05 10:58:17,284 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test3
+2019-11-05 10:58:17,285 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test3
+2019-11-05 10:58:17,285 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test4
+2019-11-05 10:58:17,285 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test4
+2019-11-05 10:58:17,285 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test4
+2019-11-05 10:58:17,285 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test4
+2019-11-05 10:58:17,285 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test5
+2019-11-05 10:58:17,286 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test5
+2019-11-05 10:58:17,286 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test5
+2019-11-05 10:58:17,286 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test5
+2019-11-05 10:58:17,286 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test6
+2019-11-05 10:58:17,286 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test6
+2019-11-05 10:58:17,287 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test6
+2019-11-05 10:58:17,287 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test6
+2019-11-05 10:58:17,287 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test7
+2019-11-05 10:58:17,287 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test7
+2019-11-05 10:58:17,288 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test7
+2019-11-05 10:58:17,288 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test7
+2019-11-05 10:58:17,288 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test8
+2019-11-05 10:58:17,288 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test8
+2019-11-05 10:58:17,289 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test8
+2019-11-05 10:58:17,289 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test8
+2019-11-05 10:58:17,289 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test9
+2019-11-05 10:58:17,289 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test9
+2019-11-05 10:58:17,289 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test9
+2019-11-05 10:58:17,290 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test9
+2019-11-05 10:58:17,290 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test10
+2019-11-05 10:58:17,290 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test10
+2019-11-05 10:58:17,290 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test10
+2019-11-05 10:58:17,291 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test10
+2019-11-05 10:58:17,291 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test11
+2019-11-05 10:58:17,291 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test11
+2019-11-05 10:58:17,292 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test11
+2019-11-05 10:58:17,292 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test11
+2019-11-05 10:58:17,292 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test12
+2019-11-05 10:58:17,292 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test12
+2019-11-05 10:58:17,293 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test12
+2019-11-05 10:58:17,293 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test12
+2019-11-05 10:58:17,293 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test13
+2019-11-05 10:58:17,293 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test13
+2019-11-05 10:58:17,294 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test13
+2019-11-05 10:58:17,294 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test13
+2019-11-05 10:58:17,294 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test14
+2019-11-05 10:58:17,294 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test14
+2019-11-05 10:58:17,295 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test14
+2019-11-05 10:58:17,295 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test14
+2019-11-05 10:58:17,295 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test15
+2019-11-05 10:58:17,295 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test15
+2019-11-05 10:58:17,296 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test15
+2019-11-05 10:58:17,296 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test15
+2019-11-05 10:58:17,296 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test16
+2019-11-05 10:58:17,296 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test16
+2019-11-05 10:58:17,297 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test16
+2019-11-05 10:58:17,297 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test16
+2019-11-05 10:58:17,297 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test17
+2019-11-05 10:58:17,297 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test17
+2019-11-05 10:58:17,297 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test17
+2019-11-05 10:58:17,298 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test17
+2019-11-05 10:58:17,298 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test18
+2019-11-05 10:58:17,298 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test18
+2019-11-05 10:58:17,298 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test18
+2019-11-05 10:58:17,299 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test18
+2019-11-05 10:58:17,299 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test19
+2019-11-05 10:58:17,299 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test19
+2019-11-05 10:58:17,299 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test19
+2019-11-05 10:58:17,299 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test19
+2019-11-05 10:58:17,300 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test20
+2019-11-05 10:58:17,300 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test20
+2019-11-05 10:58:17,300 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test20
+2019-11-05 10:58:17,300 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test20
+2019-11-05 10:58:17,301 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test21
+2019-11-05 10:58:17,301 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test21
+2019-11-05 10:58:17,301 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test21
+2019-11-05 10:58:17,301 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test21
+2019-11-05 10:58:17,301 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test22
+2019-11-05 10:58:17,302 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test22
+2019-11-05 10:58:17,302 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test22
+2019-11-05 10:58:17,302 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test22
+2019-11-05 10:58:17,302 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test23
+2019-11-05 10:58:17,303 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test23
+2019-11-05 10:58:17,303 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test23
+2019-11-05 10:58:17,303 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test23
+2019-11-05 10:58:17,306 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test24
+2019-11-05 10:58:17,307 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test24
+2019-11-05 10:58:17,307 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test24
+2019-11-05 10:58:17,307 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test24
+2019-11-05 10:58:17,307 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test25
+2019-11-05 10:58:17,308 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test25
+2019-11-05 10:58:17,310 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test25
+2019-11-05 10:58:17,311 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test25
+2019-11-05 10:58:17,311 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test26
+2019-11-05 10:58:17,311 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test26
+2019-11-05 10:58:17,312 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test26
+2019-11-05 10:58:17,312 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test26
+2019-11-05 10:58:17,312 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test27
+2019-11-05 10:58:17,312 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test27
+2019-11-05 10:58:17,313 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test27
+2019-11-05 10:58:17,313 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test27
+2019-11-05 10:58:17,313 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test28
+2019-11-05 10:58:17,314 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test28
+2019-11-05 10:58:17,314 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test28
+2019-11-05 10:58:17,314 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test28
+2019-11-05 10:58:17,314 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test29
+2019-11-05 10:58:17,315 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test29
+2019-11-05 10:58:17,315 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test29
+2019-11-05 10:58:17,315 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test29
+2019-11-05 10:58:17,315 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test30
+2019-11-05 10:58:17,315 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test30
+2019-11-05 10:58:17,315 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test30
+2019-11-05 10:58:17,316 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test30
+2019-11-05 10:58:17,316 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test31
+2019-11-05 10:58:17,316 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test31
+2019-11-05 10:58:17,317 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test31
+2019-11-05 10:58:17,317 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test31
+2019-11-05 10:58:17,317 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test32
+2019-11-05 10:58:17,317 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test32
+2019-11-05 10:58:17,318 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test32
+2019-11-05 10:58:17,318 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test32
+2019-11-05 10:58:17,318 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test33
+2019-11-05 10:58:17,319 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test33
+2019-11-05 10:58:17,319 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test33
+2019-11-05 10:58:17,319 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test33
+2019-11-05 10:58:17,319 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test34
+2019-11-05 10:58:17,319 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test34
+2019-11-05 10:58:17,320 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test34
+2019-11-05 10:58:17,320 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test34
+2019-11-05 10:58:17,320 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test35
+2019-11-05 10:58:17,320 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test35
+2019-11-05 10:58:17,320 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test35
+2019-11-05 10:58:17,321 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test35
+2019-11-05 10:58:17,321 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test36
+2019-11-05 10:58:17,321 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test36
+2019-11-05 10:58:17,321 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test36
+2019-11-05 10:58:17,321 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test36
+2019-11-05 10:58:17,321 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test37
+2019-11-05 10:58:17,322 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test37
+2019-11-05 10:58:17,322 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test37
+2019-11-05 10:58:17,322 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test37
+2019-11-05 10:58:17,322 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test38
+2019-11-05 10:58:17,322 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test38
+2019-11-05 10:58:17,323 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test38
+2019-11-05 10:58:17,323 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test38
+2019-11-05 10:58:17,323 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test39
+2019-11-05 10:58:17,323 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test39
+2019-11-05 10:58:17,323 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test39
+2019-11-05 10:58:17,324 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test39
+2019-11-05 10:58:17,324 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test40
+2019-11-05 10:58:17,324 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test40
+2019-11-05 10:58:17,324 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test40
+2019-11-05 10:58:17,324 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test40
+2019-11-05 10:58:17,324 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test41
+2019-11-05 10:58:17,325 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test41
+2019-11-05 10:58:17,325 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test41
+2019-11-05 10:58:17,325 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test41
+2019-11-05 10:58:17,326 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test42
+2019-11-05 10:58:17,326 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test42
+2019-11-05 10:58:17,327 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test42
+2019-11-05 10:58:17,327 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test42
+2019-11-05 10:58:17,327 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test43
+2019-11-05 10:58:17,328 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test43
+2019-11-05 10:58:17,328 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test43
+2019-11-05 10:58:17,328 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test43
+2019-11-05 10:58:17,328 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test44
+2019-11-05 10:58:17,329 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test44
+2019-11-05 10:58:17,329 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test44
+2019-11-05 10:58:17,329 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test44
+2019-11-05 10:58:17,329 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test45
+2019-11-05 10:58:17,329 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test45
+2019-11-05 10:58:17,330 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test45
+2019-11-05 10:58:17,330 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test45
+2019-11-05 10:58:17,330 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test46
+2019-11-05 10:58:17,330 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test46
+2019-11-05 10:58:17,330 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test46
+2019-11-05 10:58:17,330 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test46
+2019-11-05 10:58:17,331 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test47
+2019-11-05 10:58:17,331 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test47
+2019-11-05 10:58:17,331 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test47
+2019-11-05 10:58:17,331 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test47
+2019-11-05 10:58:17,332 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test48
+2019-11-05 10:58:17,332 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test48
+2019-11-05 10:58:17,332 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test48
+2019-11-05 10:58:17,332 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test48
+2019-11-05 10:58:17,333 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test49
+2019-11-05 10:58:17,333 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test49
+2019-11-05 10:58:17,334 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test49
+2019-11-05 10:58:17,334 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test49
+2019-11-05 10:58:17,335 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test50
+2019-11-05 10:58:17,335 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test50
+2019-11-05 10:58:17,335 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test50
+2019-11-05 10:58:17,336 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test50
+2019-11-05 10:58:17,336 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test51
+2019-11-05 10:58:17,336 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test51
+2019-11-05 10:58:17,337 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test51
+2019-11-05 10:58:17,337 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test51
+2019-11-05 10:58:17,337 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test52
+2019-11-05 10:58:17,337 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test52
+2019-11-05 10:58:17,338 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test52
+2019-11-05 10:58:17,338 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test52
+2019-11-05 10:58:17,338 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test53
+2019-11-05 10:58:17,338 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test53
+2019-11-05 10:58:17,338 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test53
+2019-11-05 10:58:17,339 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test53
+2019-11-05 10:58:17,339 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test54
+2019-11-05 10:58:17,339 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test54
+2019-11-05 10:58:17,339 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test54
+2019-11-05 10:58:17,339 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test54
+2019-11-05 10:58:17,340 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test55
+2019-11-05 10:58:17,340 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test55
+2019-11-05 10:58:17,340 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test55
+2019-11-05 10:58:17,340 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test55
+2019-11-05 10:58:17,340 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test56
+2019-11-05 10:58:17,340 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test56
+2019-11-05 10:58:17,341 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test56
+2019-11-05 10:58:17,341 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test56
+2019-11-05 10:58:17,341 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test57
+2019-11-05 10:58:17,341 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test57
+2019-11-05 10:58:17,342 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test57
+2019-11-05 10:58:17,342 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test57
+2019-11-05 10:58:17,342 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test58
+2019-11-05 10:58:17,342 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test58
+2019-11-05 10:58:17,342 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test58
+2019-11-05 10:58:17,343 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test58
+2019-11-05 10:58:17,343 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test59
+2019-11-05 10:58:17,343 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test59
+2019-11-05 10:58:17,344 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test59
+2019-11-05 10:58:17,344 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test59
+2019-11-05 10:58:17,344 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test60
+2019-11-05 10:58:17,344 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test60
+2019-11-05 10:58:17,344 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test60
+2019-11-05 10:58:17,344 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test60
+2019-11-05 10:58:17,345 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test61
+2019-11-05 10:58:17,345 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test61
+2019-11-05 10:58:17,345 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test61
+2019-11-05 10:58:17,345 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test61
+2019-11-05 10:58:17,345 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test62
+2019-11-05 10:58:17,346 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test62
+2019-11-05 10:58:17,346 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test62
+2019-11-05 10:58:17,346 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test62
+2019-11-05 10:58:17,346 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test63
+2019-11-05 10:58:17,347 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test63
+2019-11-05 10:58:17,347 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test63
+2019-11-05 10:58:17,347 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test63
+2019-11-05 10:58:17,347 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test64
+2019-11-05 10:58:17,347 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test64
+2019-11-05 10:58:17,348 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test64
+2019-11-05 10:58:17,348 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test64
+2019-11-05 10:58:17,348 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test65
+2019-11-05 10:58:17,349 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test65
+2019-11-05 10:58:17,349 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test65
+2019-11-05 10:58:17,349 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test65
+2019-11-05 10:58:17,350 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test66
+2019-11-05 10:58:17,350 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test66
+2019-11-05 10:58:17,350 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test66
+2019-11-05 10:58:17,351 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test66
+2019-11-05 10:58:17,351 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test67
+2019-11-05 10:58:17,352 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test67
+2019-11-05 10:58:17,352 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test67
+2019-11-05 10:58:17,352 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test67
+2019-11-05 10:58:17,352 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test68
+2019-11-05 10:58:17,352 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test68
+2019-11-05 10:58:17,352 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test68
+2019-11-05 10:58:17,353 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test68
+2019-11-05 10:58:17,353 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test69
+2019-11-05 10:58:17,353 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test69
+2019-11-05 10:58:17,353 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test69
+2019-11-05 10:58:17,353 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test69
+2019-11-05 10:58:17,353 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test70
+2019-11-05 10:58:17,353 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test70
+2019-11-05 10:58:17,353 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test70
+2019-11-05 10:58:17,354 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test70
+2019-11-05 10:58:17,354 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test71
+2019-11-05 10:58:17,354 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test71
+2019-11-05 10:58:17,354 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test71
+2019-11-05 10:58:17,354 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test71
+2019-11-05 10:58:17,354 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test72
+2019-11-05 10:58:17,355 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test72
+2019-11-05 10:58:17,355 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test72
+2019-11-05 10:58:17,355 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test72
+2019-11-05 10:58:17,355 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test73
+2019-11-05 10:58:17,355 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test73
+2019-11-05 10:58:17,355 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test73
+2019-11-05 10:58:17,356 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test73
+2019-11-05 10:58:17,356 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test74
+2019-11-05 10:58:17,356 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test74
+2019-11-05 10:58:17,356 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test74
+2019-11-05 10:58:17,356 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test74
+2019-11-05 10:58:17,357 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test75
+2019-11-05 10:58:17,357 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test75
+2019-11-05 10:58:17,357 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test75
+2019-11-05 10:58:17,357 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test75
+2019-11-05 10:58:17,357 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test76
+2019-11-05 10:58:17,358 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test76
+2019-11-05 10:58:17,358 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test76
+2019-11-05 10:58:17,358 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test76
+2019-11-05 10:58:17,358 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test77
+2019-11-05 10:58:17,359 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test77
+2019-11-05 10:58:17,359 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test77
+2019-11-05 10:58:17,359 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test77
+2019-11-05 10:58:17,359 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test78
+2019-11-05 10:58:17,360 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test78
+2019-11-05 10:58:17,360 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test78
+2019-11-05 10:58:17,360 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test78
+2019-11-05 10:58:17,360 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test79
+2019-11-05 10:58:17,361 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test79
+2019-11-05 10:58:17,361 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test79
+2019-11-05 10:58:17,361 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test79
+2019-11-05 10:58:17,361 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test80
+2019-11-05 10:58:17,362 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test80
+2019-11-05 10:58:17,362 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test80
+2019-11-05 10:58:17,362 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test80
+2019-11-05 10:58:17,362 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test81
+2019-11-05 10:58:17,363 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test81
+2019-11-05 10:58:17,363 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test81
+2019-11-05 10:58:17,363 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test81
+2019-11-05 10:58:17,363 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test82
+2019-11-05 10:58:17,363 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test82
+2019-11-05 10:58:17,364 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test82
+2019-11-05 10:58:17,364 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test82
+2019-11-05 10:58:17,364 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test83
+2019-11-05 10:58:17,365 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test83
+2019-11-05 10:58:17,365 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test83
+2019-11-05 10:58:17,365 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test83
+2019-11-05 10:58:17,365 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test84
+2019-11-05 10:58:17,365 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test84
+2019-11-05 10:58:17,366 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test84
+2019-11-05 10:58:17,366 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test84
+2019-11-05 10:58:17,366 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test85
+2019-11-05 10:58:17,366 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test85
+2019-11-05 10:58:17,367 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test85
+2019-11-05 10:58:17,367 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test85
+2019-11-05 10:58:17,367 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test86
+2019-11-05 10:58:17,367 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test86
+2019-11-05 10:58:17,368 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test86
+2019-11-05 10:58:17,368 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test86
+2019-11-05 10:58:17,368 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test87
+2019-11-05 10:58:17,368 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test87
+2019-11-05 10:58:17,369 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test87
+2019-11-05 10:58:17,369 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test87
+2019-11-05 10:58:17,369 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test88
+2019-11-05 10:58:17,369 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test88
+2019-11-05 10:58:17,369 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test88
+2019-11-05 10:58:17,370 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test88
+2019-11-05 10:58:17,370 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test89
+2019-11-05 10:58:17,370 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test89
+2019-11-05 10:58:17,370 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test89
+2019-11-05 10:58:17,371 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test89
+2019-11-05 10:58:17,371 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test90
+2019-11-05 10:58:17,371 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test90
+2019-11-05 10:58:17,371 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test90
+2019-11-05 10:58:17,371 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test90
+2019-11-05 10:58:17,372 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test91
+2019-11-05 10:58:17,372 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test91
+2019-11-05 10:58:17,372 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test91
+2019-11-05 10:58:17,372 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test91
+2019-11-05 10:58:17,372 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test92
+2019-11-05 10:58:17,373 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test92
+2019-11-05 10:58:17,373 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test92
+2019-11-05 10:58:17,373 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test92
+2019-11-05 10:58:17,373 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test93
+2019-11-05 10:58:17,373 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test93
+2019-11-05 10:58:17,373 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test93
+2019-11-05 10:58:17,374 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test93
+2019-11-05 10:58:17,374 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test94
+2019-11-05 10:58:17,374 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test94
+2019-11-05 10:58:17,374 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test94
+2019-11-05 10:58:17,374 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test94
+2019-11-05 10:58:17,374 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test95
+2019-11-05 10:58:17,375 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test95
+2019-11-05 10:58:17,375 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test95
+2019-11-05 10:58:17,375 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test95
+2019-11-05 10:58:17,375 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test96
+2019-11-05 10:58:17,375 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test96
+2019-11-05 10:58:17,376 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test96
+2019-11-05 10:58:17,376 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test96
+2019-11-05 10:58:17,376 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test97
+2019-11-05 10:58:17,376 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test97
+2019-11-05 10:58:17,376 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test97
+2019-11-05 10:58:17,376 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test97
+2019-11-05 10:58:17,376 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test98
+2019-11-05 10:58:17,377 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test98
+2019-11-05 10:58:17,377 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test98
+2019-11-05 10:58:17,377 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test98
+2019-11-05 10:58:17,377 [main] [INFO ] testexamples.TestLogger:19:TestLogger.java - Test99
+2019-11-05 10:58:17,377 [main] [ERROR] testexamples.TestLogger:20:TestLogger.java - Test99
+2019-11-05 10:58:17,377 [main] [DEBUG] testexamples.TestLogger:21:TestLogger.java - Test99
+2019-11-05 10:58:17,377 [main] [WARN ] testexamples.TestLogger:22:TestLogger.java - Test99
